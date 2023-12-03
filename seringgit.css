@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+header {
+    background-image:
+    url(https://images.unsplash.com/photo-1527842180052-cad6d8291174?q=80&w=1288&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    font-family: montserrat regular;
+    text-align: center;
+    padding: .4em;
+    color: #ddd;
+}
+.title {
+    font-family:montserrat semibold ;
+    font-size: 30px;
+    margin-bottom: -30px;
+}
+.dalil {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.baqarah{
+    font-style: oblique ;
+}
+section {
+    margin: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 150px;
+}
+form {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+.flex-container {
+    display: flex;
+}
+
+.additional-info {
+    background-color: #EEF5FF;
+    padding: 20px;
+    padding-right: 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 40%;
+}
+.form-container {
+    flex: 1;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px 70px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;   
+}
+
+.first {
+    text-align: center;
+}
+
+.payment-options {
+    display:flex;
+    justify-content:left;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
+.payment-option {
+    display:flex;
+    align-items:center;
+}
+.payment-logo {
+    max-width: 40px; 
+    margin-left:10px;
+}
+.cont {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.cont {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 1px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+footer {
+    background-color: #292828;
+    color: rgb(223, 216, 216);
+    text-align: center;
+    padding: 2px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
