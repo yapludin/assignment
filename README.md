@@ -14,9 +14,9 @@ Ahmad Isyraf Haziq
 
 # REFERENCE 
 
-Images: Unsplash - [RM1 Campaign](https://images.unsplash.com/photo-1527842180052-cad6d8291174?q=80&w=1288&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+Image: Unsplash - [RM1 Campaign](https://images.unsplash.com/photo-1527842180052-cad6d8291174?q=80&w=1288&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-Fonts: Montserrat Regular and Semibold fonts for styling.
+Fonts: Montserrat, arial, etc
 
 Logos : free png somewhere from google, made myself
 
